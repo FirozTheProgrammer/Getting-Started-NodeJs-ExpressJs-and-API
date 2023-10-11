@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 Pro",
+    "description": "The latest iPhone with advanced camera and performance.",
+    "title": "Apple iPhone 13 Pro",
+    "img": "https://example.com/iphone13pro.jpg",
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "description": "A flagship Android phone with a stunning display and powerful features.",
+    "title": "Samsung Galaxy S21",
+    "img": "https://example.com/galaxys21.jpg",
+    "price": 799.99
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "description": "The Pixel 6 offers exceptional camera capabilities and pure Android experience.",
+    "title": "Google Pixel 6",
+    "img": "https://example.com/pixel6.jpg",
+    "price": 699.99
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 9 Pro",
+    "description": "A high-performance Android flagship with a sleek design.",
+    "title": "OnePlus 9 Pro",
+    "img": "https://example.com/oneplus9pro.jpg",
+    "price": 849.99
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi 11",
+    "description": "A feature-packed smartphone from Xiaomi with a great display.",
+    "title": "Xiaomi Mi 11",
+    "img": "https://example.com/mi11.jpg",
+    "price": 599.99
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 III",
+    "description": "A premium Sony phone known for its excellent camera and 4K display.",
+    "title": "Sony Xperia 1 III",
+    "img": "https://example.com/xperia1iii.jpg",
+    "price": 1099.99
+  },
+  {
+    "id": 7,
+    "name": "LG V60 ThinQ",
+    "description": "LG's flagship phone with dual screens and versatile camera options.",
+    "title": "LG V60 ThinQ",
+    "img": "https://example.com/lgv60.jpg",
+    "price": 599.99
+  },
+  {
+    "id": 8,
+    "name": "Oppo Find X3 Pro",
+    "description": "Oppo's premium phone with a focus on photography and display quality.",
+    "title": "Oppo Find X3 Pro",
+    "img": "https://example.com/findx3pro.jpg",
+    "price": 799.99
+  },
+  {
+    "id": 9,
+    "name": "Asus ROG Phone 5",
+    "description": "A gaming-centric smartphone with high refresh rates and gaming accessories.",
+    "title": "Asus ROG Phone 5",
+    "img": "https://example.com/rogphone5.jpg",
+    "price": 799.99
+  },
+  {
+    "id": 10,
+    "name": "Motorola Moto G Power",
+    "description": "A budget-friendly smartphone with a large battery for extended use.",
+    "title": "Motorola Moto G Power",
+    "img": "https://example.com/motogpower.jpg",
+    "price": 249.99
+  }
+]
